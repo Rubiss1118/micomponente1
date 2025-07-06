@@ -93,6 +93,20 @@ css/* Cambiar colores de estados */
    Qué hace: Cuando pasas el mouse sobre el ojo, detiene las animaciones automáticas y cambia a color azul.
 6. Focus en el input
    Qué hace: Cuando haces clic en el campo de contraseña, los ojos parpadean para "saludar".
+
+   ![image](https://github.com/user-attachments/assets/88dfef21-9a7b-437b-8e16-f33d01fd5821)
+
+![image](https://github.com/user-attachments/assets/7a343039-de8c-4b02-90bc-4b8125329575)
+
+![image](https://github.com/user-attachments/assets/c061742a-4413-425f-9580-d69a90b861c3)
+
+![image](https://github.com/user-attachments/assets/745febbf-f2e8-4ee9-b1b4-269b3b457024)
+
+![image](https://github.com/user-attachments/assets/62a46899-8ec8-4141-af08-1316ae49e853)
+
+![image](https://github.com/user-attachments/assets/87e8ca90-0db0-4f5d-ab6b-f60b3f1b921a)
+
+ç
    <!DOCTYPE html>
 <html lang="es">
 
@@ -140,6 +154,8 @@ css/* Cambiar colores de estados */
 </body>
 
 </html>
+
+# java script
 
 document.addEventListener('DOMContentLoaded', function () {
     const inputContraseña = document.getElementById('inputContraseña');
@@ -296,7 +312,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 });
 
-
+# styles 
 body {
     font-family: 'Arial', sans-serif;
     display: flex;
@@ -644,20 +660,6 @@ body {
     color: #666;
     font-weight: 500;
 } 
-
-
-
-![image](https://github.com/user-attachments/assets/88dfef21-9a7b-437b-8e16-f33d01fd5821)
-
-![image](https://github.com/user-attachments/assets/7a343039-de8c-4b02-90bc-4b8125329575)
-
-![image](https://github.com/user-attachments/assets/c061742a-4413-425f-9580-d69a90b861c3)
-
-![image](https://github.com/user-attachments/assets/745febbf-f2e8-4ee9-b1b4-269b3b457024)
-
-![image](https://github.com/user-attachments/assets/62a46899-8ec8-4141-af08-1316ae49e853)
-
-![image](https://github.com/user-attachments/assets/87e8ca90-0db0-4f5d-ab6b-f60b3f1b921a)
 
 
 
