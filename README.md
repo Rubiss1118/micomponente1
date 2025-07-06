@@ -139,11 +139,17 @@ css/* Cambiar colores de estados */
 </body>
 
 </html>
+
 ![image](https://github.com/user-attachments/assets/7a343039-de8c-4b02-90bc-4b8125329575)
+
 ![image](https://github.com/user-attachments/assets/c061742a-4413-425f-9580-d69a90b861c3)
+
 ![image](https://github.com/user-attachments/assets/745febbf-f2e8-4ee9-b1b4-269b3b457024)
+
 ![image](https://github.com/user-attachments/assets/62a46899-8ec8-4141-af08-1316ae49e853)
+
 ![image](https://github.com/user-attachments/assets/87e8ca90-0db0-4f5d-ab6b-f60b3f1b921a)
+
 
 
 
