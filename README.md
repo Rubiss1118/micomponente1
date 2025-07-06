@@ -676,4 +676,4 @@ Animaciones de parpadeo y salto
 Interactividad completa del componente
 
 # GitHub Pages
-Demo en vivo:
+Demo en vivo: https://rubiss1118.github.io/micomponente1/
